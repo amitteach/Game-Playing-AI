@@ -1,5 +1,5 @@
 # Game-Playing-AI <br>
-Game Playing AI <br>
+
 
 **Project Template: Artificial Intelligence** <br>
 **Project Idea Title 1: Kane and Abel: AIs that play games** <br>
